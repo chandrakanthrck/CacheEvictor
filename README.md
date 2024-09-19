@@ -1,6 +1,3 @@
-Here's a detailed README file written in Markdown format:
-
-```markdown
 # Cache Eviction Policy Project
 
 This project implements various cache eviction policies, including **Least Recently Used (LRU)**, **Least Frequently Used (LFU)**, and **First-In-First-Out (FIFO)**. These algorithms are designed to manage cache memory efficiently, optimizing data retrieval and memory usage.
