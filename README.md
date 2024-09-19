@@ -1,4 +1,4 @@
-# Cache Eviction Policy Project
+# CacheEvictor
 
 This project implements various cache eviction policies, including **Least Recently Used (LRU)**, **Least Frequently Used (LFU)**, and **First-In-First-Out (FIFO)**. These algorithms are designed to manage cache memory efficiently, optimizing data retrieval and memory usage.
 
